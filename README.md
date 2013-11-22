@@ -1,5 +1,7 @@
 # Tagaliser
 
+Line added 18:18 20131122 to check storage/update of system on Git
+
 Analyses the pull requests made against tags in a Github repository, and then updates the release notes for the tag.
 
 ## Installation
